@@ -1,0 +1,17 @@
+[
+  {"description":"","displayName":"AssignPatient","methods":[]},
+  {"description":"","displayName":"BuildingPlanClient","methods":[]},
+  {"description":"","displayName":"CreateRequest","methods":[]},
+  {"description":"","displayName":"DoctorInfo","methods":[]},
+  {"description":"","displayName":"DoctorManagement","methods":[]},
+  {"description":"","displayName":"Header","methods":[]},
+  {"description":"","displayName":"NavBar","methods":[]},
+  {"description":"","displayName":"ReceptionistInfo","methods":[]},
+  {"description":"","displayName":"ReceptionistManagement","methods":[]},
+  {"description":"","displayName":"ReceptionistNavBar","methods":[]},
+  {"description":"","displayName":"RoomInfo","methods":[]},
+  {"description":"","displayName":"RoomManagement","methods":[]},
+  {"description":"","displayName":"RoomSVG","methods":[]},
+  {"description":"","displayName":"SensorInfo","methods":[],"props":{"sensors":{"defaultValue":{"value":"[]","computed":false},"required":false}}},
+  {"description":"","displayName":"ViewRequests","methods":[]}
+]
